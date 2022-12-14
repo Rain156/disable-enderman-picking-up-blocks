@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "disable_enderman_picking_up_blocks",
+  "name": "Disable enderman picking up blocks",
+  "version": "1.0",
+  "description": "Disable enderman picking up blocks. Pumpkin and melon are not disabled.",
+  "license": "MIT",
+  "authors": [
+    "Rain_G"
+  ],
+  "contributors": [
+    "Credit goes to original authors.",
+    "(See CurseForge Description)"
+  ],
+  "contact": {
+    "homepage": "",
+    "issues": ""
+  },
+  "icon": "icon.png",
+  "depends": {
+    "minecraft": "*",
+    "fabric": "*"
+}

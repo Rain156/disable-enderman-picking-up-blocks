@@ -1,0 +1,15 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "MIT"
+
+[[mods]]
+modId = "disable_enderman_picking_up_blocks"
+version = "1.0"
+displayName = "Disable enderman picking up blocks"
+description = "Disable enderman picking up blocks. Pumpkin and melon are not disabled."
+
+displayURL = ""
+issueTrackerURL = ""
+authors = "Rain_G"
+credits = "Credit goes to original authors (see CurseForge description)"
+logoFile = "icon.png"
