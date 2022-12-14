@@ -9,7 +9,7 @@ displayName = "Disable enderman picking up blocks"
 description = "Disable enderman picking up blocks. Pumpkin and melon are not disabled."
 
 displayURL = ""
-issueTrackerURL = ""
+issueTrackerURL = "https://github.com/Rain156/disable-enderman-picking-up-blocks/issues"
 authors = "Rain_G"
 credits = "Credit goes to original authors (see CurseForge description)"
 logoFile = "icon.png"
