@@ -1,7 +1,0 @@
-Java Launcher: F:\MCreator20222\jdk\bin\java.exe
-Arguments: '--inJar, C:\Users\rain\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.1.7\forge-1.19.2-43.1.7-injected.jar, --outJar, C:\Users\rain\.gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.19.2-43.1.7_mapped_official_1.19.2\forge-1.19.2-43.1.7_mapped_official_1.19.2.jar, --logFile, accesstransform.log, --atFile, F:\Mod\disable-enderman-picking-up-blocks\build\_atJar_4\parent_at.cfg'
-Classpath:
- - C:\Users\rain\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
-Working directory: F:\Mod\disable-enderman-picking-up-blocks\build\_atJar_4
-Main class: net.minecraftforge.accesstransformer.TransformerProcessor
-====================================
