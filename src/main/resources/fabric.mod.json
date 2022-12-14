@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "disable_enderman_picking_up_blocks",
+  "version": "1.0",
+
+  "name": "Disable enderman picking up blocks",
+  "description": "Disable enderman picking up blocks. Pumpkin and melon are not disabled.",
+  "authors": [
+    "Rain_G"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/disable-enderman-picking-up-blocks",
+    "issues": "https://github.com/Rain156/disable-enderman-picking-up-blocks/issues",
+    "sources": "https://github.com/Rain156/disable-enderman-picking-up-blocks"
+  },
+
+  "license": "MIT",
+  "icon": "icon.png",
+
+  "environment": "*",
+
+  "depends": {
+    "minecraft": "1.19.2",
+    "fabricloader": ">=0.11.1",
+    "java": ">=17"
+  }
+}
